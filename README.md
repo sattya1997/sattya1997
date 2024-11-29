@@ -1,4 +1,4 @@
-([https://github.com/sattya1997/stock-market/blob/main/icons/favicon-2.svg])
+([https://hbr.org/resources/images/article_assets/2022/05/May22_25_1306581938_1344661970-1536x864.jpg])
 <h1 align="center">Hi 👋, I'm Mr Devil</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
