@@ -1,4 +1,4 @@
-https://github.com/sattya1997/stock-market/blob/main/icons/favicon-2.svg
+[https://github.com/sattya1997/stock-market/blob/main/icons/favicon-2.svg]
 <h1 align="center">Hi 👋, I'm Mr Devil</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
