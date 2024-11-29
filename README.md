@@ -1,4 +1,4 @@
-<img src="https://hbr.org/resources/images/article_assets/2022/05/May22_25_1306581938_1344661970-1536x864.jpg " alt="Mr.Devil" width="50%" height="50%" />
+<img src="https://hbr.org/resources/images/article_assets/2022/05/May22_25_1306581938_1344661970-1536x864.jpg " alt="Mr.Devil" style="width=50%; height=50%" />
 <h1 align="center">Hi 👋, I'm Mr Devil</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
